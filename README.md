@@ -1,0 +1,1 @@
+Sure, here's an example of a for loop in PHP: ``` for ($i = 0; $i < 10; $i++) { echo $i; } ``` This loop will iterate 10 times, starting at 0 and incrementing by 1 each time. The `echo` statement will output the value of `$i` on each iteration.
